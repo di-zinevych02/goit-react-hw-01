@@ -1,0 +1,47 @@
+.container {
+    padding: 10px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: azure;
+    border: 5px solid black;
+    text-align: center;
+}
+.avatar {
+    background-color: dimgrey;
+    width: 150px;
+    border-radius: 50%;
+
+}
+.name {
+    font-size: 25px;
+        color: black;
+        /* padding-top: 8px;
+        padding-bottom: 8px; */
+}
+.tag,
+.location {
+    font-size: 20px;
+    color:darkgray;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    background-color:aliceblue;
+    border: 1px solid grey;
+    
+
+}
+
+.item {
+    display: flex;
+    color: black;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemInfo {
+
+}
