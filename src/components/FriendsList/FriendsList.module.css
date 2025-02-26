@@ -1,0 +1,16 @@
+.friendslist {
+display: flex;
+flex-direction: row;
+gap: 8px;
+list-style: none;
+padding: 20px;
+text-align: center;
+
+}
+.friendsitem {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    color: black;
+}

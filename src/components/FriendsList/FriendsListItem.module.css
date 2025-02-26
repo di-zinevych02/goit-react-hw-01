@@ -1,0 +1,15 @@
+.container {
+ width: 80px;
+}
+.name {
+font-weight: bold;
+font-size: 20px;
+}
+
+.online {
+color: green;
+}
+.offline {
+    color: red;
+
+}
