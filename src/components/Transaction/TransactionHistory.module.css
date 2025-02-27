@@ -1,0 +1,19 @@
+.table {
+    width: 500px;
+    background-color: lightgrey;
+}
+.table th,
+.table td {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black
+}
+.headertable {
+    background-color: dimgray;
+}
+.table td {
+    color: black;
+}
+.table tr:nth-child(even) {
+background-color: grey;
+}
